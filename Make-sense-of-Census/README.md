@@ -14,30 +14,30 @@ The snapshot of the data, you will be working on:
 The dataset has details of 100 people with the following 8 features
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Feature                                         Description
+Feature -->                                       Description
 __________________________________________________________________________________________________________________________________
-   age	                                  Age of the person
+   age	 -->                                 Age of the person
    
-education-num                       No. of years of education they had
+education-num -->                     No. of years of education they had
 
-   race	                                  Person's race
+   race	    -->                            Person's race
                                                   KEY==> 0 : Amer-Indian-Eskimo
                                                          1 : Asian-Pac-Islander
                                                          2 : Black
                                                          3 : Other
                                                          4 : White
                                                                  
-   sex	                                 Person's gender
+   sex	   -->                           Person's gender
                                                  KEY==> 0 : Female
                                                         1 : Male
                                                         
-capital-gain	                         Income from investment sources, apart from wages/salary
+capital-gain	 -->                     Income from investment sources, apart from wages/salary
 
-capital loss                            Losses from investment sources, apart from wages/salary
+capital loss    -->                    Losses from investment sources, apart from wages/salary
 
-hours-per-week	                 No. of hours per week the person works
+hours-per-week	   -->           No. of hours per week the person works
 
-income                                    Annual Income of the person
+income           -->                      Annual Income of the person
                                                     KEY==> 0 : Less than or equal to 50K
                                                            1 : More than 50K
 
